@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adity\\source\\repos\\task-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|c:\\users\\adity\\source\\repos\\task-app\\task-app\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|solutionrelative:task-app\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|c:\\users\\adity\\source\\repos\\task-app\\task-app\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|solutionrelative:task-app\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|c:\\users\\adity\\source\\repos\\task-app\\task-app\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|solutionrelative:task-app\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|c:\\users\\adity\\source\\repos\\task-app\\task-app\\controllers\\tasklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|solutionrelative:task-app\\controllers\\tasklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|c:\\users\\adity\\source\\repos\\task-app\\task-app\\models\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|solutionrelative:task-app\\models\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|c:\\users\\adity\\source\\repos\\task-app\\task-app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|solutionrelative:task-app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|c:\\users\\adity\\source\\repos\\task-app\\task-app\\services\\tasklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|solutionrelative:task-app\\services\\tasklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|c:\\users\\adity\\source\\repos\\task-app\\task-app\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|solutionrelative:task-app\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|c:\\users\\adity\\source\\repos\\task-app\\task-app\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|solutionrelative:task-app\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|c:\\users\\adity\\source\\repos\\task-app\\task-app\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|solutionrelative:task-app\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|c:\\users\\adity\\source\\repos\\task-app\\task-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|solutionrelative:task-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|c:\\users\\adity\\source\\repos\\task-app\\task-app\\task-app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|solutionrelative:task-app\\task-app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|c:\\users\\adity\\source\\repos\\task-app\\task-app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|solutionrelative:task-app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|c:\\users\\adity\\source\\repos\\task-app\\task-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37EB30F0-87D6-467E-B532-784F4C17182B}|task-app\\task-app.csproj|solutionrelative:task-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Models\\User.cs",
+              "RelativeDocumentMoniker": "task-app\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Models\\User.cs",
+              "RelativeToolTip": "task-app\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:39:40.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskListController.cs",
+              "DocumentMoniker": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Controllers\\TaskListController.cs",
+              "RelativeDocumentMoniker": "task-app\\Controllers\\TaskListController.cs",
+              "ToolTip": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Controllers\\TaskListController.cs",
+              "RelativeToolTip": "task-app\\Controllers\\TaskListController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAawFYAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:35:26.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskListService.cs",
+              "DocumentMoniker": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Services\\TaskListService.cs",
+              "RelativeDocumentMoniker": "task-app\\Services\\TaskListService.cs",
+              "ToolTip": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Services\\TaskListService.cs",
+              "RelativeToolTip": "task-app\\Services\\TaskListService.cs",
+              "ViewState": "AgIAAAsAAAAAAQAAAAAAwBUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:14:45.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskList.cs",
+              "DocumentMoniker": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Models\\TaskList.cs",
+              "RelativeDocumentMoniker": "task-app\\Models\\TaskList.cs",
+              "ToolTip": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Models\\TaskList.cs",
+              "RelativeToolTip": "task-app\\Models\\TaskList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:10:40.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "task-app\\Services\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Services\\ProjectService.cs",
+              "RelativeToolTip": "task-app\\Services\\ProjectService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwFAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:59:58.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "task-app\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Models\\Project.cs",
+              "RelativeToolTip": "task-app\\Models\\Project.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:34:02.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "task-app\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "task-app\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAABkAAADAzMzMzMwiwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:28:13.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "task-app\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Controllers\\UserController.cs",
+              "RelativeToolTip": "task-app\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:14:08.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "task-app.csproj",
+              "DocumentMoniker": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\task-app.csproj",
+              "RelativeDocumentMoniker": "task-app\\task-app.csproj",
+              "ToolTip": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\task-app.csproj",
+              "RelativeToolTip": "task-app\\task-app.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T18:08:01.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "task-app\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Services\\UserService.cs",
+              "RelativeToolTip": "task-app\\Services\\UserService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAawFoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:05:10.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "task-app\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "task-app\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:07:04.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "task-app\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Services\\JwtService.cs",
+              "RelativeToolTip": "task-app\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAQAAAB4ZmZmZmYgwCcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:03:30.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Program.cs",
+              "RelativeDocumentMoniker": "task-app\\Program.cs",
+              "ToolTip": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\Program.cs",
+              "RelativeToolTip": "task-app\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAMjMzMzMLwEgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:50:48.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\appsettings.json",
+              "RelativeDocumentMoniker": "task-app\\appsettings.json",
+              "ToolTip": "C:\\Users\\adity\\source\\repos\\task-app\\task-app\\appsettings.json",
+              "RelativeToolTip": "task-app\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T09:39:22.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
